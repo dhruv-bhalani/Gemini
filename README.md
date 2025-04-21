@@ -15,9 +15,7 @@ In this project, Gemini AI is leveraged to provide [insert specific functionalit
 - 🌐 Real-time Responsiveness – Designed for interactive and latency-sensitive environments.
 
 - 🧠 Continually Evolving – Backed by constant updates and improvements from the DeepMind team.
-![Screenshot_2025-04-21-11-36-53-31_3bdb46c340f521c59196a1fe0025f3e0])
-![Screenshot_2025-04-21-11-36-20-99_3bdb46c340f521c59196a1fe0025f3e0]()
 
-
+## Output
 <img src = "https://github.com/user-attachments/assets/4fe84ba8-1a36-49a3-affc-48f634988538" width="200">
 <img src = "https://github.com/user-attachments/assets/52c6f724-d162-4b74-aad9-c66a1d16c8bc" width="200">
